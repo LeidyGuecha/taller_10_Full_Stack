@@ -4,7 +4,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1: Mostrar constantes y variables</h2>
-<img src="./Public/Imagenes/punto1.png" alt="html">
+<img src="./Public/Imagenes/punto1.png" alt="punto 1">
 
 <h2>Punto 2: Sumar constantes y variables</h2>
-<img src="./Public/Imagenes/punto2.png" alt="html">
+<img src="./Public/Imagenes/punto2.png" alt="punto 2">
